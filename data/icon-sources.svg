@@ -18,7 +18,7 @@
    inkscape:export-filename="/home/brian/Code/special-order/data/click-blue-64.png"
    inkscape:export-xdpi="19.726027"
    inkscape:export-ydpi="19.726027"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="icon-sources.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -38,7 +38,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="203.21429"
+     inkscape:cx="371.07852"
      inkscape:cy="514.28571"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -88,7 +88,7 @@
        inkscape:export-ydpi="4.9315066" />
     <path
        sodipodi:type="arc"
-       style="fill:#48459d;fill-opacity:1;stroke:none"
+       style="fill:#5c54ed;fill-opacity:1;stroke:none"
        id="path2996-7-2"
        sodipodi:cx="211"
        sodipodi:cy="335.36218"
@@ -96,18 +96,18 @@
        sodipodi:ry="146"
        d="m 357,335.36218 a 146,146 0 1 1 -292,0 146,146 0 1 1 292,0 z"
        transform="matrix(1,0,-0.18927445,1,351.47549,324)"
-       inkscape:export-filename="/home/brian/Code/special-order/data/click-blue-64.png"
-       inkscape:export-xdpi="19.378386"
-       inkscape:export-ydpi="19.378386" />
+       inkscape:export-filename="/home/brian/Code/special-order/data/click-blue-16.png"
+       inkscape:export-xdpi="4.9315066"
+       inkscape:export-ydpi="4.9315066" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 444,550.36218 117,107 -126,129 75,-124 z"
        id="path3889-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/home/brian/Code/special-order/data/click-blue-64.png"
-       inkscape:export-xdpi="19.378386"
-       inkscape:export-ydpi="19.378386" />
+       inkscape:export-filename="/home/brian/Code/special-order/data/click-blue-16.png"
+       inkscape:export-xdpi="4.9315066"
+       inkscape:export-ydpi="4.9315066" />
     <path
        sodipodi:type="arc"
        style="fill:#666666;fill-opacity:1;stroke:none"
