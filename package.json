@@ -1,9 +1,9 @@
 {
   "name": "special-order",
-  "title": "special-order",
+  "title": "Special Order",
   "id": "jid1-g0e9uybBVCVG3Q",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "Easy card lookup for Android: Netrunner",
+  "author": "Brian Rainey",
   "license": "MPL 2.0",
   "version": "0.1"
 }
