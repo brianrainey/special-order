@@ -1,4 +1,8 @@
-special-order
+Special Order
 =============
 
-Firefox addon to display Android: Netrunner cards.
+Special Order is a Firefox add-on for displaying Android: Netrunner cards.
+
+Add-on download page: https://addons.mozilla.org/en-US/firefox/addon/special-order/ 
+
+Home Page: http://brian.rainey.us/special-order/
