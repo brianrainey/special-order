@@ -5,7 +5,7 @@
   "description": "Easy card lookup for Android: Netrunner",
   "author": "Brian Rainey",
   "license": "MPL 2.0",
-  "version": "1.1",
+  "version": "1.1.1",
   "icon": "data/click-blue-48.png",
   "icon64": "data/click-blue-64.png",
   "homepage": "http://brian.rainey.us/special-order"
