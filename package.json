@@ -1,11 +1,11 @@
 {
   "name": "special-order",
   "title": "Special Order",
-  "id": "jid1-g0e9uybBVCVG3Q",
+  "id": "jid1-g0e9uybBVCVG3Q@jetpack",
   "description": "Easy card lookup for Android: Netrunner",
   "author": "Brian Rainey",
   "license": "MPL 2.0",
-  "version": "1.3",
+  "version": "1.3.2",
   "icon": "data/click-blue-48.png",
   "icon64": "data/click-blue-64.png",
   "homepage": "http://brian.rainey.us/special-order",

@@ -5,7 +5,7 @@ var { Hotkey }       = require('sdk/hotkeys');
 var { prefs }        = require('sdk/simple-prefs');
 var self             = require('sdk/self')
 var selection        = require('sdk/selection');
-var carddb           = require('special-order/card-db');
+var carddb           = require('lib/card-db');
 
 // Initialize card DB and begin listening for text selections
 carddb.initialize(beginListening);
