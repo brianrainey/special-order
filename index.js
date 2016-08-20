@@ -56,8 +56,8 @@ function beginListening() {
   });
 }
 
-/** 
- * Displays the panel, contents already set 
+/**
+ * Displays the panel, contents already set
  */
 function showPanel() {
   panel.show({
@@ -65,8 +65,8 @@ function showPanel() {
   });
 }
 
-/** 
- * Hides the panel after escape / clicking elsewhere 
+/**
+ * Hides the panel after escape / clicking elsewhere
  */
 function handleHide() {
   button.state('window', {checked: false});
@@ -98,7 +98,7 @@ function setContentUrl(selectedText) {
     if (prefs['autoDisplay']) {
       showPanel();
     }
-    if (card.side === 'Runner') {
+    if (card.side === 'runner') {
       button.icon = {
         '16': './click-red-16.png',
         '32': './click-red-32.png',
@@ -115,4 +115,3 @@ function setContentUrl(selectedText) {
     button.disabled = false;
   }
 }
-
